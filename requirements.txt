@@ -12,5 +12,5 @@ requests-cache==0.5.2
 six==1.15.0
 typing-extensions==3.7.4.3
 ujson==3.1.0
-urllib3==1.25.10
+urllib3==1.26.5
 yarl==1.5.1
